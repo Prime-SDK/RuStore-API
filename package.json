@@ -1,7 +1,7 @@
 {
-  "name": "com.mirrasdk.rustore.api",
+  "name": "com.primesdk.rustore.api",
   "version": "1.0.1",
-  "displayName": "RuStore API for MirraSDK5",
+  "displayName": "RuStore API for PrimeSDK",
   "unity": "2021.3",
   "documentationUrl": "",
   "changelogUrl": "",

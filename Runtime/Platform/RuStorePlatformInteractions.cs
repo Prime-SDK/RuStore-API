@@ -1,10 +1,10 @@
-using MirraGames.SDK.Common;
+using PrimeGames.SDK.Common;
 using RuStore.Review;
 using System;
 using UnityEngine;
-using Logger = MirraGames.SDK.Common.Logger;
+using Logger = PrimeGames.SDK.Common.Logger;
 
-namespace MirraGames.SDK.RuStore {
+namespace PrimeGames.SDK.RuStore {
 
     [Provider(typeof(IPlatformInteractions))]
     public class RuStorePlatformInteractions : CommonPlatformInteractions {

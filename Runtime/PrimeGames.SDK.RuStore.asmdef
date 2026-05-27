@@ -1,8 +1,8 @@
 {
-    "name": "MirraGames.SDK.RuStore",
-    "rootNamespace": "MirraGames.SDK.RuStore",
+    "name": "PrimeGames.SDK.RuStore",
+    "rootNamespace": "PrimeGames.SDK.RuStore",
     "references": [
-        "MirraGames.SDK.Common",
+        "PrimeGames.SDK.Common",
         "RuStoreCore",
         "RuStorePay",
         "RuStoreReview"

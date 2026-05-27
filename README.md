@@ -13,7 +13,7 @@ What to do (simply):
 3. Add this package to Unity Package Manager by adding the following .git URL:
 
 ```url
-https://github.com/MirraSDK/SDK5-RuStore-API.git
+https://github.com/Prime-SDK/RuStore-API.git
 ```
 
 4. Make sure you selected Android platform in Build Settings

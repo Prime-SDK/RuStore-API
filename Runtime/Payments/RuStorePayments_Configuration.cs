@@ -1,7 +1,7 @@
-using MirraGames.SDK.Common;
+using PrimeGames.SDK.Common;
 using UnityEngine;
 
-namespace MirraGames.SDK.RuStore {
+namespace PrimeGames.SDK.RuStore {
 
     [ProviderConfiguration(typeof(RuStorePayments))]
     public class RuStorePayments_Configuration : PropertyGroup {

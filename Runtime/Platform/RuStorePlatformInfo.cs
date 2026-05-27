@@ -1,6 +1,6 @@
-using MirraGames.SDK.Common;
+using PrimeGames.SDK.Common;
 
-namespace MirraGames.SDK.RuStore {
+namespace PrimeGames.SDK.RuStore {
 
     [Provider(typeof(IPlatformInfo))]
     public class RuStorePlatformInfo : CommonPlatformInfo {

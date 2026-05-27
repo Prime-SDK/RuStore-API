@@ -1,13 +1,13 @@
-using MirraGames.SDK.Common;
+using PrimeGames.SDK.Common;
 using RuStore;
 using RuStore.PayClient;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
-using Logger = MirraGames.SDK.Common.Logger;
+using Logger = PrimeGames.SDK.Common.Logger;
 
-namespace MirraGames.SDK.RuStore {
+namespace PrimeGames.SDK.RuStore {
 
     [Provider(typeof(IPayments))]
     public class RuStorePayments : CommonPayments {
